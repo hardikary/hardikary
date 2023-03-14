@@ -2,7 +2,7 @@
 - 👀 I’m interested in Design system 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- I M looking for Swift UI framework
+- I M looking for Swift UI frame work
 - 📫 How to reach me Email Address : ha5409015@gmail.com
 -    Phone  Number  : 07475731231
 
